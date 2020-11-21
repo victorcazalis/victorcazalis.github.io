@@ -1,3 +1,3 @@
 ## Talks and presentation
 
-Detail talks
+Happy to be invited for seminars + Detail talks
