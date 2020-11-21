@@ -1,6 +1,6 @@
 ## Talks and presentation
 
-I am always happy to present my work. Feel free to invite me for a seminar in your lab!
+I am always happy to present my work and discuss about it. Feel free to invite me for a seminar in your lab!
 
 ### Talks in conference
  "Are protected areas enhancing pro-environmental behaviours?". **Student Conference on Conservation Science**, Cambridge, 26th March 2019
