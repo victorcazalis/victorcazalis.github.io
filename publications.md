@@ -16,7 +16,7 @@
 
 * **Cazalis V.**, Prévot A.-C. (2019). Are protected areas effective in conserving human connection with nature and enhancing pro-environmental behaviours? *Biological Conservation* 236: 548-555. [DOI:10.1016/j.biocon.2019.03.012](https://doi.org/10.1016/j.biocon.2019.03.012)
 
-* **Cazalis V.**, Belghali S., Rodrigues A.S.L. (2019). Using a large-scale biodiversity monitoring dataset to test the effectiveness of protected areas in conserving North-American breeding birds. *Peer-reviewed and recommended by PCI Ecology*. [DOI:10.1101/433037](https://www.biorxiv.org/content/10.1101/433037v4.full.pdf)
+* **Cazalis V.**, Belghali S., Rodrigues A.S.L. (2019). Using a large-scale biodiversity monitoring dataset to test the effectiveness of protected areas in conserving North-American breeding birds. *Peer-reviewed and recommended by PCI Ecology*. [DOI:10.1101/433037](https://www.biorxiv.org/content/10.1101/433037v4.full.pdf) [PCI is a non-proficient emerging alternative to traditional journals, more info [here](https://peercommunityin.org)]
 
 * **Cazalis V.**, Loreau M., Henderson K. (2018). Do we have to choose between feeding the human population and conserving nature? Modelling the global dependence of people on ecosystem services. *Science of the total environment* 634: 1463-1474 . [DOI:10.1016/j.scitotenv.2018.03.360](https://doi.org/10.1016/j.scitotenv.2018.03.360)
 
