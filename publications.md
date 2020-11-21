@@ -14,11 +14,11 @@ Cazalis V., Princé K., Mihoub J.-B., Kelly J., Butchart S.H.M., Rodrigues A.S.L
 
 Gaget E., Le Viol I., Pavón-Jordán D., Cazalis V., Kerbiriou C., Jiguet F., Popoff N., Dami L., Mondain-Monval J.-Y., Defos du Rau P., Abdou W.A.I., Bozic L., Dakki M., Encarnacao V.M.F., Erciyas-Yavuz K., Etayeb K.S., Molina B., Petkov N., Uzunova D., Zenatello M., Galewski T. (2020). Assessing the effectiveness of the Ramsar Convention in preserving wintering waterbirds in the Mediterranean. Biological Conservation 243. Link
 
-3 * **Cazalis V.**, Prévot A.-C. (2019). Are protected areas effective in conserving human connection with nature and enhancing pro-environmental behaviours? Biological Conservation 236: 548-555. PDF
+* **Cazalis V.**, Prévot A.-C. (2019). Are protected areas effective in conserving human connection with nature and enhancing pro-environmental behaviours? Biological Conservation 236: 548-555. PDF
 
-2 **Cazalis V.**, Belghali S., Rodrigues A.S.L. (2019). Using a large-scale biodiversity monitoring dataset to test the effectiveness of protected areas in conserving North-American breeding birds. Biorxiv, 433037, ver. 4 peer-reviewed and recommended by PCI Ecology. Link
+* **Cazalis V.**, Belghali S., Rodrigues A.S.L. (2019). Using a large-scale biodiversity monitoring dataset to test the effectiveness of protected areas in conserving North-American breeding birds. Biorxiv, 433037, ver. 4 peer-reviewed and recommended by PCI Ecology. Link
 
-*1 **Cazalis V.**, Loreau M., Henderson K. (2018). Do we have to choose between feeding the human population and conserving nature? Modelling the global dependence of people on ecosystem services. Science of the total environment 634: 1463-1474 . PDF
+* **Cazalis V.**, Loreau M., Henderson K. (2018). Do we have to choose between feeding the human population and conserving nature? Modelling the global dependence of people on ecosystem services. Science of the total environment 634: 1463-1474 . PDF
 
 
 ### Technical publications
