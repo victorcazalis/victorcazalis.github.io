@@ -4,5 +4,6 @@
 
 * **Cazalis, V.**, Test1
 
++ 2 techniques
 
 <img src="https://victorcazalis.github.io/LongTailedTit2.jpg"  align="center" width="700">
