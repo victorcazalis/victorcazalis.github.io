@@ -14,4 +14,4 @@ More detail can be found in my detail [CV](/CV Victor 26.10.20b.pdf) (last updat
 
 
 
-<img src="https://victorcazalis.github.io/Hirondelle rustique5 - Rouveyrac - 25-06-13.JPG"  align="center" width="700">
+<img src="https://victorcazalis.github.io/Bouirex2.JPG"  align="center" width="1600">
