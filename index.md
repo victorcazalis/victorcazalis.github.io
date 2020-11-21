@@ -11,7 +11,7 @@ Oct.2017 - Nov.2020: **PhD student** at the [Centre for functional and Evolution
 
 When I'm not in the lab, I enjoy hiking (especially in the mountains), playing music (double bass and piano) or handcrafting stuff.
 
-More detail can be found in my detail [CV](/CV Victor 26.10.20b.pdf) (last update October 2020).
+More detail can be found in my detail [CV](/CV_website.pdf) (last update October 2020).
 
 
 
