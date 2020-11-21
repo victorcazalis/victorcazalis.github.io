@@ -5,3 +5,4 @@
 - A bit on personal hobbies?
 - CV (updated on XX)
 
+<img src="https://victorcazalis.github.io/planche Calanques.jpg"  align="center" width="700">
