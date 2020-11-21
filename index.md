@@ -1,3 +1,3 @@
-<img src="https://victorcazalis.github.io/Bouirex2.jpg"  align="center" width="700">
+<img src="https://victorcazalis.github.io/Bouirex2.JPG"  align="center" width="1000">
 
 Text presentation Victor
