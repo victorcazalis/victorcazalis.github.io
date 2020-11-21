@@ -3,4 +3,5 @@
 - Short story (Cévennes, Birding, Master, PhD and Leipzig)
 - 4 main profile caracteristics (large-scale conservation issues, spatial analyses, naturalist background (Atlas ici ?), writing)
 - A bit on personal hobbies?
+- CV (updated on XX)
 
