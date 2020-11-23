@@ -1,7 +1,8 @@
 ## Research interests
-Add text
+My main motivation in doing research holds in the word "Conservation". I want my research to help, directly or indirectly, conserving species and nature. This applied will is combined with a strong appentence for large and global spatial scales. Indeed, I like to think about the global impact that humans have on biodiversity and about the solutions that we have in our hands to mitigate biodiversity loss at global scale. Studying conservation effectiveness and participating in the development of indexes to track biodiversity loss and conservation effects are thus central in my research interests. I also feel drawn to social sciences when they help understanding what makes conservation actions more effective and I hope to develop this in the next years.
 
-## Past research projects
+
+## Research projects
 ### Protected area effectiveness
 
 During my PhD I worked on evaluating the effectiveness of the main tool used in conservation and that is central in international conservation agreements such as the Convention on Biological Diversity: protected areas. The term "protected area effectiveness" in used in many ways as it incapsulates multiple complementary facets that together explains how protected areas enable the long term conservation of nature [(Rodrigues and Cazalis 2020, Nat.Comms)](https://www.nature.com/articles/s41467-020-18989-2).
