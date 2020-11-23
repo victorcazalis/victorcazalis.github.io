@@ -1,6 +1,7 @@
 ## Research interests
+Add text
 
-
+## Past research projects
 ### Protected area effectiveness
 
 During my PhD I worked on evaluating the effectiveness of the main tool used in conservation and that is central in international conservation agreements such as the Convention on Biological Diversity: protected areas. The term "protected area effectiveness" in used in many ways as it incapsulates multiple complementary facets that together explains how protected areas enable the long term conservation of nature [(Rodrigues and Cazalis 2020, Nat.Comms)](https://www.nature.com/articles/s41467-020-18989-2).
