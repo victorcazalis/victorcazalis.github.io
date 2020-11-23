@@ -4,9 +4,7 @@
 
 ### Peer-reviewed articles
 
-<!-- + text + -->
-
-* Bernard A., Rodrigues A.S.L., **Cazalis V.**, Grémillet D. (Under review). Global review of seabird tracking reveals major knowledge gaps. *Under major revision at Conservation Letters*.
+<!-- + * Bernard A., Rodrigues A.S.L., **Cazalis V.**, Grémillet D. (Under review). Global review of seabird tracking reveals major knowledge gaps. *Under major revision at Conservation Letters*. + -->
 
 * Rodrigues A.S.L., **Cazalis V.** (2020). The multifaceted challenge of evaluating protected area effectiveness. *Nature Communications* 11: 5147. [DOI:10.1038/s41467-020-18989-2](https://www.nature.com/articles/s41467-020-18989-2)
 
