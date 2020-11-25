@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: Victor Cazalis
 description: Junior researcher in Conservation Biology
 baseurl: /
+
+plugins: - jekyll-sitemap
