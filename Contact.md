@@ -4,19 +4,19 @@
 <img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Gazé2.jpg"  align="right" width="340">
 
 ### Email: 
-victor.cazalis [at] laposte.net
+victor.cazalis [at] idiv.de
 
 Feel free to get in touch!
 
 
 
 ### Current institution: 
-Centre d'Ecologie Fonctionnelle et Evolutive
+German Centre for Integrative Biodiversity Research (iDiv)
 
-1919 Route de Mende
+Puschstrasse 4
 
-34293 Montpellier Cedex 5
+04103 Leipzig
 
-FRANCE
+Germany
 
 
