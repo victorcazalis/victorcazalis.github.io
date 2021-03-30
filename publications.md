@@ -4,7 +4,7 @@
 
 
 ### Preprints
-* Cazalis V., Barnes M.D., Johnston A., Watson J.E.M., Şekercioğlu C.H., Rodrigues A.S.L (2021). Mismatch between bird species sensitivity and the protection of intact habitats across the Americas. bioRxiv 2021.03.28.437197; doi: https://doi.org/10.1101/2021.03.28.437197 
+* **Cazalis V.**, Barnes M.D., Johnston A., Watson J.E.M., Şekercioğlu C.H., Rodrigues A.S.L (2021). Mismatch between bird species sensitivity and the protection of intact habitats across the Americas. bioRxiv 2021.03.28.437197; doi: https://doi.org/10.1101/2021.03.28.437197 
 
 ### Peer-reviewed articles
 
