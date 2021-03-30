@@ -2,6 +2,10 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=t42adKwAAAAJ&hl=fr&oi=sra)  \|  [ORCID](https://orcid.org/0000-0003-0850-883X)  \|  [Publons](https://publons.com/researcher/1605670/victor-cazalis/)
 
+
+### Preprints
+* Cazalis V., Barnes M.D., Johnston A., Watson J.E.M., Şekercioğlu C.H., Rodrigues A.S.L (2021). Mismatch between bird species sensitivity and the protection of intact habitats across the Americas. bioRxiv 2021.03.28.437197; doi: https://doi.org/10.1101/2021.03.28.437197 
+
 ### Peer-reviewed articles
 
 * Bernard A., Rodrigues A.S.L., **Cazalis V.**, Grémillet D. (*In press*). Global review of seabird tracking reveals major knowledge gaps. *Conservation Letters*.
