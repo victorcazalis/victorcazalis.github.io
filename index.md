@@ -3,7 +3,7 @@
 
 <img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Victor3.JPG"  align="right" width="220">
 
-I am a young French researcher in Conservation Biology, with particular interests in international conservation, conservation effectiveness and birds. My profile combines strong spatial analytic skills (e.g., crossing large database of biodiversity data with habitat data), enthuasiam in academic writing and a naturalist background (mainly birdwatching).
+I am a French researcher in Conservation Biology, with particular interests in international conservation, conservation effectiveness, IUCN Red List and birds. My profile combines strong spatial analytic skills (e.g., crossing large database of biodiversity data with habitat data), enthuasiam in academic writing and a naturalist background (mainly birdwatching).
 
 Feb.2021 - Jan.2023: **Post-Doc position** at [iDiv](https://www.idiv.de/en/sdiv.html), working in the [sRedList project](https://www.idiv.de/en/sredlist.html) to develop an innovative and consistent framework for prioritising the updates of Red List assessments. This project is led by [Luca Santini](http://lucasantini.com/) and [Moreno Di Marco](https://www.biodiversitychange.com).
 
