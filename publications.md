@@ -4,11 +4,11 @@
 
 
 ### Preprints
-* **Cazalis V.**, Barnes M.D., Johnston A., Watson J.E.M., Şekercioğlu C.H., Rodrigues A.S.L (2021). Mismatch between bird species sensitivity and the protection of intact habitats across the Americas. *bioRxiv* 2021.03.28.437197; doi: https://doi.org/10.1101/2021.03.28.437197 
+* **Cazalis V.**, Barnes M.D., Johnston A., Watson J.E.M., Şekercioğlu C.H., Rodrigues A.S.L (2021). Mismatch between bird species sensitivity and the protection of intact habitats across the Americas. *bioRxiv* 2021.03.28.437197. [DOI:10.1101/2021.03.28.437197](https://doi.org/10.1101/2021.03.28.437197) 
 
 ### Peer-reviewed articles
 
-* Bernard A., Rodrigues A.S.L., **Cazalis V.**, Grémillet D. (2021). Global review of seabird tracking reveals major knowledge gaps. *Conservation Letters*.
+* Bernard A., Rodrigues A.S.L., **Cazalis V.**, Grémillet D. (2021). Global review of seabird tracking reveals major knowledge gaps. *Conservation Letters*. [DOI:10.1111/conl.12804](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12804)
 
 * Rodrigues A.S.L., **Cazalis V.** (2020). The multifaceted challenge of evaluating protected area effectiveness. *Nature Communications* 11: 5147. [DOI:10.1038/s41467-020-18989-2](https://www.nature.com/articles/s41467-020-18989-2)
 
