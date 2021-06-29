@@ -3,9 +3,6 @@
 [Google Scholar](https://scholar.google.com/citations?user=t42adKwAAAAJ&hl=fr&oi=sra)  \|  [ORCID](https://orcid.org/0000-0003-0850-883X)  \|  [Publons](https://publons.com/researcher/1605670/victor-cazalis/)
 
 
-### Preprints
-
-
 ### Peer-reviewed articles
 * **Cazalis V.**, Barnes M.D., Johnston A., Watson J.E.M., Şekercioğlu C.H., Rodrigues A.S.L (Accepted). Mismatch between bird species sensitivity and the protection of intact habitats across the Americas. *Ecology Letters* Preprint available [here](https://doi.org/10.1101/2021.03.28.437197) 
 
