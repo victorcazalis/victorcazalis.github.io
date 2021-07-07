@@ -3,6 +3,8 @@
 I am always happy to present my work and discuss about it. Feel free to invite me for a seminar in your lab!
 
 ### Talks in conference
+  * "Unravelling ecological thresholds in human impact on species richness". **BES Macro conference**, Online, 7th July 2021
+ 
  * "Are protected areas enhancing pro-environmental behaviours?". **Student Conference on Conservation Science**, Cambridge, 26th March 2019
 
  * "Investigating protected areas effectiveness using North-American Breeding Bird Survey". **International Conference on Ecological Science**, SFE2, Rennes, 24th October 2018.
