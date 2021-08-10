@@ -1,7 +1,7 @@
 ## About
 [Google Scholar](https://scholar.google.com/citations?user=t42adKwAAAAJ&hl=fr&oi=sra)  \|  [ORCID](https://orcid.org/0000-0003-0850-883X)  \|  [Publons](https://publons.com/researcher/1605670/victor-cazalis/)
 
-<img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Victor3.JPG"  align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Victor research.jpg"  align="right" width="220">
 
 I am a French researcher in Conservation Biology, with particular interests in international conservation, conservation effectiveness, IUCN Red List and birds. My profile combines strong spatial analytic skills (e.g., crossing large database of biodiversity data with habitat data), enthuasiam in academic writing and a naturalist background (mainly birdwatching).
 
