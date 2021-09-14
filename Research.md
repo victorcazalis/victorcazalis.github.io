@@ -3,8 +3,8 @@ My main motivation in doing research holds in the word "Conservation". I want my
 
 
 ## Research projects
-### IUCN Red List improvement
-The Red List of threatened species is absolutely central in biodiversity conservation, therefore it is important that it is up-to-date with changes in species risks of extinction. This is currently problematic as many species have not been re-assessed while their last assessment was more than 10 years ago. The objective of the working group my current post-doc fits in is to create a common framework to identify automatically species that need urgent re-assessment, by crossing species distribution, human pressure maps and species traits. It will include synthesis aspects (to identify what has been done; **Cazalis et al. *Under review***), analytical studies (to fill gaps identified in the synthesis; (**Cazalis *In prep***)) and the definition of a common framework that we hope to be used for further IUCN re-assessments.
+### IUCN Red List support
+The IUCN Red List of Threatened Species is absolutely central in biodiversity conservation, but limited resources constrain its growth, update and consistency. The objective of the working group my current post-doc fits in is to help develop modelling tools to support assessments and to provide them to Red List assessors through an online platform. This project started with a synthesis of existing studies and tools, developed in a perspective paper (**Cazalis et al. *Under review***), and will be followed by several analytical studies, aiming at filling gaps identified in the synthesis (**Cazalis *In prep***).
 
 
 ### Protected area effectiveness
