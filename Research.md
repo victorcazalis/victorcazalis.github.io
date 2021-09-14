@@ -4,7 +4,7 @@ My main motivation in doing research holds in the word "Conservation". I want my
 
 ## Research projects
 ### IUCN Red List improvement
-The Red List of threatened species is absolutely central in biodiversity conservation, therefore it is important that it is up-to-date with changes in species risks of extinction. This is currently problematic as many species have not been re-assessed while their last assessment was more than 10 years ago. The objective of the working group my current post-doc fits in is to create a common framework to identify automatically species that need urgent re-assessment, by crossing species distribution, human pressure maps and species traits. It will include synthesis aspects (to identify what has been done), analytical studies (to fill gaps identified in the synthesis) and the definition of a common framework that we hope to be used for further IUCN re-assessments.
+The Red List of threatened species is absolutely central in biodiversity conservation, therefore it is important that it is up-to-date with changes in species risks of extinction. This is currently problematic as many species have not been re-assessed while their last assessment was more than 10 years ago. The objective of the working group my current post-doc fits in is to create a common framework to identify automatically species that need urgent re-assessment, by crossing species distribution, human pressure maps and species traits. It will include synthesis aspects (to identify what has been done; **Cazalis et al. *Under review***), analytical studies (to fill gaps identified in the synthesis; (**Cazalis *In prep***)) and the definition of a common framework that we hope to be used for further IUCN re-assessments.
 
 
 ### Protected area effectiveness
@@ -21,7 +21,9 @@ Several of the above-mentioned facets of protected area effectiveness are part o
 
 
 ### Other projects
-In an ongoing project (**Cazalis *Under review***), I investigate the exact effect of human footprint on overall species richness and on assemblage composition and suggest the existence of a two-phases relationship that I call the "Replace the Remove trajectory". It first consists in a phase of strong assemblage transformation (replacement of habitat specialists by generalists, endemic by large-ranged species, threatened by exotic species and species sensitive to human pressures by tolerant and anthropophilic species) with no effect on overall species richness, and a second phase (when human footprint >30) in a drop in overall species richness as many "winner" species are not benefiting human pressure anymore.
+In an ongoing project (**Cazalis *Under review***), I investigate the exact effect of human footprint on overall species richness and on assemblage composition and suggest the existence of a two-phases relationship (first biotic homogenisation with no effect on species richness, followed by a decline in species richness when pressure becomes too important) and I suggest a unifying framework on the different trajectories of species richness response to human pressure.
+
+Following the article with Anne-Caroline Prévot, I led a review of our current knowledge in trends in human experience of nature, in order to understand how human connection with nature has evolved in the past decades and question the "extinction of experience" (**Cazalis et al. *Under review***).
 
 During my Masters, I worked on a theoretical model exploring the balance between human demography, land-use and ecosystem services [(Cazalis et al. 2018, Sci.Tot.Env)](https://doi.org/10.1016/j.scitotenv.2018.03.360)
 
