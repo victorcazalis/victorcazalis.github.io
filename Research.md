@@ -4,7 +4,7 @@ My main motivation in doing research holds in the word "Conservation". I want my
 
 ## Research projects
 ### IUCN Red List support
-The IUCN Red List of Threatened Species is absolutely central in biodiversity conservation, but limited resources constrain its growth, update and consistency. The objective of the working group my current post-doc fits in is to help develop modelling tools to support assessments and to provide them to Red List assessors through an online platform. This project started with a synthesis of existing studies and tools, developed in a perspective paper (**Cazalis et al. *Under review***), and will be followed by several analytical studies, aiming at filling gaps identified in the synthesis (**Cazalis *In prep***).
+The IUCN Red List of Threatened Species is absolutely central in biodiversity conservation, but limited resources constrain its growth, update and consistency. The objective of the working group my current post-doc fits in is to help develop modelling tools to support assessments and to provide them to Red List assessors through an online platform. This project started with a synthesis of existing studies and tools, developed in a perspective paper (**Cazalis et al. *In revision***), and I am now working on two analytic studies, one focusing on predicting data sufficient species, the other one trying to measure AOO and trends in AOO.
 
 
 ### Protected area effectiveness
@@ -23,7 +23,7 @@ Several of the above-mentioned facets of protected area effectiveness are part o
 ### Other projects
 In an ongoing project (**Cazalis *Under review***), I investigate the exact effect of human footprint on overall species richness and on assemblage composition and suggest the existence of a two-phases relationship (first biotic homogenisation with no effect on species richness, followed by a decline in species richness when pressure becomes too important) and I suggest a unifying framework on the different trajectories of species richness response to human pressure.
 
-Following the article with Anne-Caroline Prévot, I led a review of our current knowledge in trends in human experience of nature, in order to understand how human connection with nature has evolved in the past decades and question the "extinction of experience" (**Cazalis et al. *Under review***).
+Following the article with Anne-Caroline Prévot, I led a review of our current knowledge in trends in human experience of nature, in order to understand how human connection with nature has evolved in the past decades and question the "extinction of experience" (**Cazalis et al. *In press***).
 
 During my Masters, I worked on a theoretical model exploring the balance between human demography, land-use and ecosystem services [(Cazalis et al. 2018, Sci.Tot.Env)](https://doi.org/10.1016/j.scitotenv.2018.03.360)
 
