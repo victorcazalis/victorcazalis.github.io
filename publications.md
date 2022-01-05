@@ -4,9 +4,9 @@
 
 
 ### Peer-reviewed articles
-* **Cazalis V.**, Di Marco M., Butchart S.H.M., Akçakaya H.R., González‐Suárez M., Meyer C., Clausnitzer V., Böhm M., Zizka A., Cardoso P., Schipper A.M., Bachman S.P., Young B.E., Hoffmann M., Benítez-López A., Lucas P.M., Pettorelli N., Patoine G., Pacifici M., Jörger-Hickfang T., Brooks T.M., Rondinini C., Hill S.L.L., Visconti P., Santini L. (In press). Bridging the research-implementation gap in IUCN Red List assessments. *Trends in Ecology and Evolution*
+* **Cazalis V.**, Di Marco M., Butchart S.H.M., Akçakaya H.R., González‐Suárez M., Meyer C., Clausnitzer V., Böhm M., Zizka A., Cardoso P., Schipper A.M., Bachman S.P., Young B.E., Hoffmann M., Benítez-López A., Lucas P.M., Pettorelli N., Patoine G., Pacifici M., Jörger-Hickfang T., Brooks T.M., Rondinini C., Hill S.L.L., Visconti P., Santini L. (Accepted). Bridging the research-implementation gap in IUCN Red List assessments. *Trends in Ecology and Evolution*
 
-* **Cazalis V.**, Loreau M., Barragan-Jason G. (In press). A global synthesis on trends in human experience of nature. *Frontiers in Ecology and the Environment*
+* **Cazalis V.**, Loreau M., Barragan-Jason G. (Accepted). A global synthesis on trends in human experience of nature. *Frontiers in Ecology and the Environment*
 
 * **Cazalis V.**, Barnes M.D., Johnston A., Watson J.E.M., Şekercioğlu C.H., Rodrigues A.S.L (2021). Mismatch between bird species sensitivity and the protection of intact habitats across the Americas. *Ecology Letters* [DOI: 10.1111/ele.13859](https://onlinelibrary.wiley.com/doi/10.1111/ele.13859) 
 
