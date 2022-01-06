@@ -12,6 +12,8 @@ I am always happy to present my work and discuss about it. Feel free to invite m
  * "Investigating protected areas effectiveness using North-American Breeding Bird Survey". **International Conference on Ecological Science**, SFE2, Rennes, 24th October 2018.
 
 ### Invited seminars
+* "Protected areas: are current policies effectively conserving nature?" Invited seminar at the **EDB lab**, Toulouse - France, 11th of January 2022
+ 
 * "Protected area effectiveness: using eBird data to evaluate conservation actions" Invited seminar at the **Cornell Lab or Ornithology**, Ithaca - USA, 12th of March 2021
  
 * "Protected area effectiveness: is the cornerstone of biodiversity conservation really enabling the protection of nature?" Invited seminar at the **Centre d'Ecologie et des Sciences de la Conservation (CESCO)**, MNHN, Paris - France, 8th of February 2021
