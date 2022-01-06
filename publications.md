@@ -8,7 +8,7 @@
 
 * **Cazalis V.**, Loreau M., Barragan-Jason G. (Accepted). A global synthesis on trends in human experience of nature. *Frontiers in Ecology and the Environment*
 
-* **Cazalis V.**, Barnes M.D., Johnston A., Watson J.E.M., Şekercioğlu C.H., Rodrigues A.S.L (2021). Mismatch between bird species sensitivity and the protection of intact habitats across the Americas. *Ecology Letters* [DOI: 10.1111/ele.13859](https://onlinelibrary.wiley.com/doi/10.1111/ele.13859) 
+* **Cazalis V.**, Barnes M.D., Johnston A., Watson J.E.M., Şekercioğlu C.H., Rodrigues A.S.L (2021). Mismatch between bird species sensitivity and the protection of intact habitats across the Americas. *Ecology Letters* 24(11): 2394-2405 [DOI: 10.1111/ele.13859](https://onlinelibrary.wiley.com/doi/10.1111/ele.13859) 
 
 * Bernard A., Rodrigues A.S.L., **Cazalis V.**, Grémillet D. (2021). Global review of seabird tracking reveals major knowledge gaps. *Conservation Letters*. [DOI:10.1111/conl.12804](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12804)
 
