@@ -21,7 +21,7 @@ Several of the above-mentioned facets of protected area effectiveness are part o
 
 
 ### Other projects
-In an ongoing project (**Cazalis *Accepted in PNAS***), I investigate the exact effect of human footprint on overall species richness and on assemblage composition and suggest the existence of a two-phases relationship (first assemblage transformation resulting in a low increase species richness, followed by a decline in species richness when pressure becomes too important) and I suggest a unifying framework on the different trajectories of species richness response to human pressure.
+In an ongoing project [(Cazalis 2022, PNAS)](https://www.pnas.org/doi/full/10.1073/pnas.2107361119), I investigate the exact effect of human footprint on overall species richness and on assemblage composition and suggest the existence of a two-phases relationship (first assemblage transformation resulting in a low increase species richness, followed by a decline in species richness when pressure becomes too important) and I suggest a unifying framework on the different trajectories of species richness response to human pressure.
 
 Following the article with on human pro-environmental behaviours, I led a review of our current knowledge in trends in human experience of nature, in order to understand how human connection with nature has evolved in the past decades and question the "extinction of experience" (**Cazalis et al. *Accepted in Frontiers in Ecology and the Environment***).
 
