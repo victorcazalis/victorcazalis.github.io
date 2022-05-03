@@ -4,9 +4,9 @@
 
 
 ### Peer-reviewed articles
-* **Cazalis V.** (2022). Species richness response to human pressure hides important assemblage transformations. *Proceedings of the National Academy of Sciences* [DOI:10.1073/pnas.2107361119](https://www.pnas.org/doi/full/10.1073/pnas.2107361119)
-
 * **Cazalis V.**, Loreau M., Barragan-Jason G. (Accepted). A global synthesis on trends in human experience of nature. *Frontiers in Ecology and the Environment*
+
+* **Cazalis V.** (2022). Species richness response to human pressure hides important assemblage transformations. *Proceedings of the National Academy of Sciences* [DOI:10.1073/pnas.2107361119](https://www.pnas.org/doi/full/10.1073/pnas.2107361119)
 
 * **Cazalis V.**, Di Marco M., Butchart S.H.M., Akçakaya H.R., González‐Suárez M., Meyer C., Clausnitzer V., Böhm M., Zizka A., Cardoso P., Schipper A.M., Bachman S.P., Young B.E., Hoffmann M., Benítez-López A., Lucas P.M., Pettorelli N., Patoine G., Pacifici M., Jörger-Hickfang T., Brooks T.M., Rondinini C., Hill S.L.L., Visconti P., Santini L. (2022). Bridging the research-implementation gap in IUCN Red List assessments. *Trends in Ecology and Evolution* [DOI: 10.1016/j.tree.2021.12.002](https://www.sciencedirect.com/science/article/pii/S0169534721003372?dgcid=author)
 
