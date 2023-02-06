@@ -3,7 +3,7 @@
 
 <img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Victor research.jpg"  align="right" width="220">
 
-I am a French Conservation Biology scientist, with particular interests in international conservation, conservation effectiveness, IUCN Red List and birds. After five years in academia, I decided to step aside (see [Leaving Academia](http://conservara.fr/LeavingAcademia)) and explore how to increase the uptake of research by offering NGOs, researchers, and media analyses services to make research methods and outputs accessible to them (see [Conservara](http://conservara.fr/Conservara)).
+I am a French Conservation Biology scientist, with particular interests in international conservation, conservation effectiveness, IUCN Red List and birds. After five years in academia, I decided to step aside (see [Leaving Academia](http://conservara.fr/LeavingAcademia)) and to try supporting applied projects from NGOs, researchers, or media to make conservation science methods and outputs more accessible (see [Conservara](http://conservara.fr/Conservara)).
 
 Feb.2023 - now: **Selt-employment at Conservara** - Conservation Analyst for Research Application (discover [Conservara](http://conservara.fr/Conservara)).
 
