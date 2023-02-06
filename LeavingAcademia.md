@@ -1,4 +1,4 @@
-‌## Leavingacademia
+## Leaving academia
 
 In January 2023, I left academia to work on global conservation from a different perspective. These **very subjective** lines are here to explain these reasons.
 
