@@ -1,6 +1,10 @@
 ## Press outputs
 
-During my PhD, I had the chance to communicate on several of my articles to a large non-scientific audience. 
+I had the chance to communicate on several of my articles through media communication. 
+
+
+### Cazalis et al. 2022:
+Press release from [iDiv](https://www.idiv.de/en/news/archive-2022/news-2022-single-view.html?tx_ttnews%5Btt_news%5D=5043&cHash=4940a61d12149ade2e5085543fbdc602) and [INEE](https://www.inee.cnrs.fr/fr/cnrsinfo/entre-humains-et-nature-la-distance-augmente) (FR); Press article in [Le Parisien](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjA2uaR_oL9AhXAUaQEHccUBz0QFnoECA0QAQ&url=https%3A%2F%2Fwww.leparisien.fr%2Fenvironnement%2Fnous-nous-eloignons-de-la-nature-et-ce-nest-pas-une-bonne-nouvelle-11-01-2023-EF6F2P2TJ5AVZMBXLIMW3AYS5Q.php&usg=AOvVaw0p2rUPdJYrehai4oe4F9Y8), [L'express](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjLhraJ_oL9AhWQTaQEHWO-ABEQFnoECA4QAQ&url=https%3A%2F%2Fwww.lexpress.fr%2Fsciences-sante%2Fcop15-biodiversite-entre-lhomme-et-la-nature-le-fosse-grandit-SXJ24PHJK5BTDPZVWHEEZP3NQI%2F&usg=AOvVaw21F2qQGUHwjR1P_6DLdhSF), [Popular Science](http://ct.moreover.com/?a=49667047999&p=1pl&v=1&x=PL99HGdYbTPTNv0pBNyyZQ), [The Conversation](http://ct.moreover.com/?a=49786899823&p=1pl&v=1&x=-KdBaBM8nbPkCr3n7JyeQg); Radio segments on [France Culture](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnt5ib_oL9AhWTTaQEHYB5CdUQFnoECB8QAQ&url=https%3A%2F%2Fwww.radiofrance.fr%2Ffranceculture%2Fpodcasts%2Fle-journal-des-sciences%2Fles-humains-sont-de-plus-en-plus-deconnectes-de-la-nature-1014091&usg=AOvVaw0TE_7RQ-N4erHiueIsLQGz), [France Info](https://www.francetvinfo.fr/replay-radio/le-billet-vert/environnement-la-distance-entre-l-homme-et-la-nature-continue-d-augmenter_5531130.html).
 
 ### Maxwell et al. 2020: 
 Press release from [INEE](https://inee.cnrs.fr/fr/cnrsinfo/les-gouvernements-mondiaux-nont-pas-tenu-leurs-engagements-proteger-la-nature) (FR); Press article in [Le Monde](https://www.lemonde.fr/planete/article/2020/10/09/comment-proteger-30-voire-50-de-la-planete_6055388_3244.html) (FR)
