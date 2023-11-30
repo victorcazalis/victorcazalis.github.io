@@ -35,7 +35,14 @@ Combining R and Inkscape, I create maps and graphics to display results in a pre
 
 
 ## GIS analyses
-XXX
+Each of my research project included some GIS analyses. I run any GIS analysis in R, which enables to process large datasets in a standard and reproducible way. I can then develop R codes to do anything you need with polygon and rasters data. For instance, I can run any of the following analyses and use the results in any statistical analysis or data visualisation possible:
+- assign point data to different polygons (e.g., to identify in which "region" falls each point)
+- intersect different polygons (e.g., to identify the different protected areas overlapping with a given polygon)
+- calculate raster values within different polygons (e.g., to calculate forest cover trends within each protected area)
+- create polygons from points (e.g., to map the distribution of a given species)
+- calculate distance between polygons and raster values (e.g., to calculate the distance from any point or polygon to the closest human settlement)
+- create rasters (e.g., transforming a polygon map of lakes in a region to a raster of distance to lakes)
+You can see more options of what is possible for instance in the R sf [cheatsheet](https://www.comeetie.fr/cours/DU/dsp5/sf-cheatsheet.pdf). If you have any doubt whether something is possible or not, just ask me!
 
 > You are XXX
 
@@ -47,20 +54,21 @@ Over my years in academia I gained expertise in diverse statistical analyses. I 
 I can for instance help with:
 - Generalised Linear Models
 - Mixed effect models
+- Distance sampling and site occupancy models
 - Multivariate analyses (PCAs, factorial analyses...)
 - Random Forest algorithms
 
 > You are monitoring a species within your region → I can analyse your raw data to estimate population trends.
 
-> You are XXX
+> You need to identify if a given factor is influencing the occurrence of your target species → I can use site occupancy models to answer your question.
 
 
 ## Database management
 I can help you to create or manage a biodiversity database for your structure. I can help design the structure, code ways to populate the database, code ways to review the database and spot possible errors, or code ways to access and use data from it.
 
-> You are XXX
+> You have many observation from our structure that are difficult to access and use → I can merge them in a standard dataset that will be easy to use.
 
-> You are XXX
+> You have an old database that needs to be filtered and transform → I can address the problems your current database has (e.g., identify data with wrong coordinates, harmonise species names...) and transform it to a clean dataset.
 
 
 
