@@ -4,6 +4,7 @@
 I can help access and use data from online databases on biodiversity or habitat. I can access data from [GBIF](https://www.gbif.org/), [OBIS](https://obis.org/), [eBird](https://ebird.org), or [iNaturalist](https://www.inaturalist.org) to gather information on a given site (e.g., which species have been observed within a given protected area) or a given species (e.g., where a given species has been observed). I can also access and process different habitat layers to get context information on the sites you are working on: [land-cover](https://land.copernicus.eu/en/products/corine-land-cover), [forest cover](https://glad.earthengine.app/view/global-forest-change), [human density](https://ghsl.jrc.ec.europa.eu/ghs_pop.php), [road density](https://www.globio.info/download-grip-dataset), protected areas, and so on.
 
 > You are a protected area and want a list of species found within your border -> I can extract data from GBIF (or other databases) and give you a spreadsheet with species name, number of occurrences, site, and even raw data.
+
 > You are working on an invasive species -> I can extract data from online databases to enable you mapping and analysing the distribution and spread of your species. 
 
 
@@ -24,8 +25,9 @@ Combining R and Inkscape, I create maps and graphics to display results in a pre
 <img src="https://victorcazalis.github.io/Images/Fig4.png"  width="45%">
 </p>
 
-> You are running a conservation program and need to present the trends of your species in a report or website -> I can analyse the data and display the results nicely
-> You need a pretty and informative map of your protected area (including some graphics and pictures) -> I can design it for you
+> You are running a conservation program and need to present the trends of your species in a report or website -> I can analyse the data and display the results nicely.
+
+> You need a pretty and informative map of your protected area (including some graphics and pictures) -> I can design it for you.
 
 
 ## GIS analyses
