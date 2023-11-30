@@ -43,6 +43,9 @@ I can for instance help with:
 - Multivariate analyses (PCAs, factorial analyses...)
 - Random Forest algorithms
 
+> You are monitoring a species within your region --> I can analyse your raw data to estimate population trends.
+
+> You are XXX
 
 
 ## Database management
