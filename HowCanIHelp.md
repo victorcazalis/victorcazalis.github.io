@@ -15,9 +15,10 @@ Combining R and Inkscape, I create maps and graphics to display results in a pre
   <img src="https://victorcazalis.github.io/Images/Fig1.png"  align="left" width="45%">
   <img src="https://victorcazalis.github.io/Images/Fig2.png"  align="right" width="45%">
 </p>
-<img src="https://victorcazalis.github.io/Images/Fig3.png"  align="left" width="400">
-<img src="https://victorcazalis.github.io/Images/Fig4.png"  align="right" width="400">
-
+<p float="center">
+<img src="https://victorcazalis.github.io/Images/Fig3.png"  align="left" width="45%">
+<img src="https://victorcazalis.github.io/Images/Fig4.png"  align="right" width="45%">
+</p>
 
 
 
