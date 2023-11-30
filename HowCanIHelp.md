@@ -20,7 +20,7 @@ I can help access and use data from online databases on biodiversity or habitat.
 
 
 ## Database management
-
+I can help you to create or manage a biodiversity database for your structure. I can help design the structure, code ways to populate the database, code ways to review the database and spot possible errors, or code ways to access and use data from it.
 
 ## Maps and graphics
 
