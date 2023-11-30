@@ -11,7 +11,7 @@ I can help access and use data from online databases on biodiversity or habitat.
 
 ## Maps and graphics
 Combining R and Inkscape, I create maps and graphics to display results in a pretty and informative ways. This was actually my favourite part when writing papers. Here are a few examples of graphical outputs from my research projects:
-<img src="https://victorcazalis.github.io/Fig1.png"  align="left" width="600">
+<img src="https://victorcazalis.github.io/blob/Conservara/Fig1.png"  align="left" width="600">
 <img src="https://victorcazalis.github.io/Fig1.PNG"  align="right" width="600">
 <img src="https://victorcazalis.github.io/Fig1.PNG"  align="left" width="600">
 <img src="https://victorcazalis.github.io/Fig1.PNG"  align="right" width="600">
