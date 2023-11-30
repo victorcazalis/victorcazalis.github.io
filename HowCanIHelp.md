@@ -44,9 +44,9 @@ Each of my research project included some GIS analyses. I run any GIS analysis i
 - create rasters (e.g., transforming a polygon map of lakes in a region to a raster of distance to lakes)
 You can see more options of what is possible for instance in the R sf [cheatsheet](https://www.comeetie.fr/cours/DU/dsp5/sf-cheatsheet.pdf). If you have any doubt whether something is possible or not, just ask me!
 
-> You are XXX
+> You need to calculate different characteristics of the lakes across your protected area → I can calculate multiple characteristics for each lake (e.g., size, elevation, forest cover, distance to human activities, level of protection, number of species recorded in a buffer of 5 km...).
 
-> You are XXX
+> You are working on a restoration project and need to identify 10 sites in a given region where to prioritize your efforts → I can use geographical data on species distribution, habitat, human pressure, and protection to identify sites that would be the best suited for restoration efforts.
 
 ## Statistical analyses
 Over my years in academia I gained expertise in diverse statistical analyses. I can help you explore your data, find the correct statistical analyses to implement, and code the analyses.
