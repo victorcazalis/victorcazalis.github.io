@@ -8,6 +8,7 @@ Currently, I am only working on the project that made me start this adventure: t
 
 # What kind of projects can I work on?
 With Conservara, I imagine working for three main groups of stakeholders, as long as projects have strong conservation application. First, I would be happy to support conservation NGOs in their needs to better inform or monitor conservation actions (e.g., providing data analyses or developing tools from conservation NGOs, from very local to global scales). Second, since it is often difficult for researchers to make their results really accessible to end-users, I could help by developing Shiny Apps or other tools to provide end-users with easy-access to research outputs. Third, I could help media by processing and interpreting available data (e.g., on global Protected Areas, global efforts towards meeting biodiversity targets, or Red List data) to inform articles or interactive infographics.
+
 You can see what I can offer in practice in [How can I help you?](http://conservara.fr/HowCanIHelp)
 
 <img src="https://victorcazalis.github.io/logo.png"  align="center" width="600">
