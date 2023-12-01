@@ -14,11 +14,12 @@ I can help access and use data from online databases on biodiversity or habitat.
 Interactive data visualisation is probably the best way to make informed decision in conservation. Being able to explore a map, click on a given sites to see the species occurring there, or clicking on a given species to understand its conservation needs will help you prioritise your actions. A big asset of interactive data visualisation is also that it is a good communication tool with people with little to no scientific background. The two main interactive tools I use are interactive reports and interactive apps.
 
 ### Interactive reports
-XXX
+Using RMarkDown, I can create interactive reports (pdf or html) that include graphics, results of spatial analyses, and interactive maps. The strength of that tool is that it enables making individual reports with a common structure and same analyses but different content. For instance, if you need to describe the habitat characteristics and monitoring results of 50 sites, you can get 50 individual reports with in-depth results on each site. You can see an example of such report [here](http://conservara.fr/sRedList_report_Azteca_xanthochroa.html), describing data on a species to apply Red List criteria; you can see that multiple analyses have been carried out and are reported here (e.g., with an interactive map of occurrences and an histogram of their elevation in Step 1, a text list of countries overlapping with the species distribution in Step 2, a table of habitat preferences in Step 4...). 
+This tool will be well suited if you need to visualise data and analyses results for a large but reasonable number of species or sites (ideally 10-100). It is also very convenient to share with different experts!
 
-> You are XXX
+> You are working on a biodiversity atlas and want to provide some data visualisation and analyses to your species experts → I can create individual reports for each species that will display the occurrence and analyses results; each expert will then get a standard report on their species to easily inform their species monography.
 
-> You are XXX
+> You are working in a protected area and need to map some habitat or protection measures for each municipality included in your protected area → I can create individual report for each municipality that you can use yourself or share with each municipality representatives. It can include interactive habitat maps, list of species occurring in the municipality, statistical analyses specifically on data from that municipality, a text summary of conservation actions and monitoring within the municipality... 
 
 ### Interactive apps
 XXX
@@ -70,13 +71,13 @@ I can for instance help with:
 
 > You are monitoring a species within your region → I can analyse your raw data to estimate population trends.
 
-> You need to identify if a given factor is influencing the occurrence of your target species → I can use site occupancy models to answer your question.
+> You need to identify what limits the presence of your target species → I can use site occupancy models to model and understand the effect of habitat, human activities, or climate on the occurrence of your species.
 
 
 ## Database management
 I can help you to create or manage a biodiversity database for your structure. I can help design the structure, code ways to populate the database, code ways to review the database and spot possible errors, or code ways to access and use data from it.
 
-> You have many observation from our structure that are difficult to access and use → I can merge them in a standard dataset that will be easy to use.
+> Your structure stored many observations that are difficult to access and use → I can merge them in a standard dataset that will be easy to use.
 
 > You have an old database that needs to be filtered and transform → I can address the problems your current database has (e.g., identify data with wrong coordinates, harmonise species names...) and transform it to a clean dataset.
 
