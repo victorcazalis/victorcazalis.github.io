@@ -4,7 +4,7 @@ Here are some ideas of what type of services I can provide (always with some con
 ## Online databases
 I can help access and use data from online databases on biodiversity or habitat. I can access data from [GBIF](https://www.gbif.org/), [OBIS](https://obis.org/), [eBird](https://ebird.org), or [iNaturalist](https://www.inaturalist.org) to gather information on a given site or a given species. I can also access and process different habitat layers to get context information on the sites you are working on: [land-cover](https://land.copernicus.eu/en/products/corine-land-cover), [forest cover](https://glad.earthengine.app/view/global-forest-change), [human density](https://ghsl.jrc.ec.europa.eu/ghs_pop.php), [road density](https://www.globio.info/download-grip-dataset), protected areas, and so on.
 
-> You are a protected area and want a list of species found within your border → I can extract data from GBIF (or other databases) and give you a spreadsheet with species name, number of occurrences, site, and additional information.
+> You are working in a protected area and want a list of species found within your border → I can extract data from GBIF (or other databases) and give you a spreadsheet with species name, number of occurrences, site, and additional information.
 
 > You are working on an invasive species → I can extract data from online databases to enable you mapping and analysing the distribution and spread of your species. 
 
@@ -14,22 +14,25 @@ I can help access and use data from online databases on biodiversity or habitat.
 Interactive data visualisation is probably the best way to make informed decision in conservation. Being able to explore a map, click on a given sites to see the species occurring there, or clicking on a given species to understand its conservation needs will help you prioritise your actions. A big asset of interactive data visualisation is also that it is a good communication tool with people with little to no scientific background. The two main interactive tools I use are interactive reports and interactive apps.
 
 #### Interactive reports
-Using RMarkDown, I can create interactive reports (pdf or html) that include graphics, results of spatial analyses, and interactive maps. The strength of this tool is that it enables making individual reports with a common structure but different content. For instance, if you need to describe the habitat characteristics and monitoring results of 50 sites, you can get 50 individual reports with in-depth results on each site. You can see an example of such report [here](http://conservara.fr/sRedList_report_Azteca_xanthochroa.html), describing data on a species to apply Red List criteria; you can see that multiple analyses have been carried out and are reported here (e.g., with an interactive map of occurrences and an histogram of their elevation in Step 1, a text list of countries overlapping with the species distribution in Step 2, a table of habitat preferences in Step 4...). 
+Using RMarkDown, I can create interactive reports (pdf or html) that include graphics, results of spatial analyses, and interactive maps. The strength of this tool is that it enables making individual reports with a common structure but different content. For instance, if you need to describe the habitat characteristics and monitoring results of 50 sites, you can get 50 individual reports with in-depth results on each site. You can see an example of such report [here](http://conservara.fr/sRedList_report_Azteca_xanthochroa.html), describing data on a species to apply Red List criteria. 
+
 This tool will be well suited if you need to visualise data and analyses results for a large but reasonable number of species or sites (ideally 10-100). It is also very convenient to share with different experts!
 
-> You are working on a biodiversity atlas and want to provide some data visualisation and analyses to your species experts → I can create individual reports for each species that will display the occurrence and analyses results; each expert will then get a standard report on their species to easily inform their species monography.
+> You are working on a biodiversity atlas and want to provide some data visualisation and analyses to your species experts → I can create individual reports for each species that will display the occurrences and analyse results; each expert will then get a standard report on their species to easily inform their species monography.
 
-> You are working in a protected area and need to map some habitat or protection measures for each municipality included in your protected area → I can create individual report for each municipality that you can use yourself or share with each municipality representatives. It can include interactive habitat maps, list of species occurring in the municipality, statistical analyses specifically on data from that municipality, a text summary of conservation actions and monitoring within the municipality... 
+> You are working in a protected area and need to map some habitat or protection measures for each municipality included in your protected area → I can create individual report for each municipality that you can share with each municipality representatives. It can include interactive habitat maps, list of species occurring in the municipality, statistical analyses focusing on that municipality, a text summary of conservation actions and monitoring within the municipality... 
 
 #### Interactive apps
-Using R Shiny Apps, I can create and host online applications that can include interactive maps, graphics, text, and table. The strength of this tool is that you users can set parameters they are interested in, and run analyses just by clicking on a button. You can see an example [here](https://shiny.posit.co/r/gallery/life-sciences/covid19-tracker/); check the "Region plots" section to visualise how user can specify parameters that are then used in the analyses. This tool can also allow user to enter data themselves (either to use in the analyses or to populate a database) or to manually classify or annotate data. It is a very powerful tool when you need to interact a lot with your data or when you want the tool to be accessible to many people.
+Using R Shiny Apps, I can create and host online applications that can include interactive maps, graphics, text, and tables. The strength of this tool is that users can set parameters they are interested in, and run analyses just by clicking on a button. You can see an example [here](https://shiny.posit.co/r/gallery/life-sciences/covid19-tracker/); check the "Region plots" section to visualise how users can specify parameters. This tool can also allow users to enter data themselves (either to use in the analyses or to populate a database) or to manually classify or annotate data. 
+
+It is a very powerful tool when you need to interact a lot with your data or when you want the tool to be accessible to many people.
 
 > You are coordinating a conservation project and want every stakeholder to access and explore the project data → I can create an online app to visualise your different data products (maps, graphics, tables...) and create adequate documentation (text, cheatsheet, video tutorial) for your users.
 
-> You are coordinating a team of fieldworkers and need an online portal for them to enter their data interactively (e.g., click on a map, select species they observed and enter additional information) or to annotate data (e.g., assess conservation state based on different information graphics) → I can create an online app that your team can use to enter data when they are coming back from fieldwork and create a robust database.
+> You are coordinating a team of fieldworkers and need an online portal for them to enter their data interactively (e.g., enter point data directly from an interactive map) or to annotate data (e.g., assess local conservation status based on graphics) → I can create an online app that your team can use to enter data when they are coming back from fieldwork and create a robust database.
 
 ## Maps and graphics
-Combining R and Inkscape, I create maps and graphics to display results in a pretty and informative ways. This was actually my favourite part when writing papers so I can help you present your data in maps and graphics. Here are a few examples of graphical outputs from my research projects:
+Combining R and Inkscape, I create maps and graphics to display results in a pretty and informative way. Here are a few examples of graphical outputs from my research projects:
 
 <p float="center">
   <img src="https://victorcazalis.github.io/Images/Fig1.png" width="45%">
@@ -40,13 +43,13 @@ Combining R and Inkscape, I create maps and graphics to display results in a pre
 <img src="https://victorcazalis.github.io/Images/Fig4.png"  width="45%">
 </p>
 
-> You are running a conservation program and need to present the trends of your species in a report or website → I can analyse the data and display the results nicely.
+> You are running a conservation program and need to present complex results in a report or website → I can analyse the data and display the results nicely.
 
 > You need a pretty and informative map of your protected area (including some graphics and pictures) → I can design it for you.
 
 
 ## GIS analyses
-Each of my research project included some GIS analyses. I run any GIS analysis in R, which enables to process large datasets in a standard and reproducible way. I can then develop R codes to do anything you need with polygon and rasters data. For instance, I can run any of the following analyses and use the results in any statistical analysis or data visualisation possible:
+Each of my research project included some GIS analyses. I run any GIS analysis in R, which enables to process large datasets in a standard and reproducible way. I can develop R codes to do anything you need with polygon and rasters data. For instance, I can run any of the following analyses and use the results in any statistical analysis or data visualisation possible:
 - assign point data to different polygons (e.g., to identify in which "region" falls each point)
 - intersect different polygons (e.g., to identify the different protected areas overlapping with a given polygon)
 - calculate raster values within different polygons (e.g., to calculate forest cover trends within each protected area)
@@ -60,7 +63,7 @@ You can see more options of what is possible for instance in the R sf [cheatshee
 > You are working on a restoration project and need to identify 10 sites in a given region where to prioritize your efforts → I can use geographical data on species distribution, habitat, human pressure, and protection to identify sites that would be the best suited for restoration efforts.
 
 ## Statistical analyses
-Over my years in academia I gained expertise in diverse statistical analyses. I can help you explore your data, find the correct statistical analyses to implement, and code the analyses.
+I can help you explore your data, find the correct statistical analyses to implement, and run a wide diversity of statistical analyses.
 
 I can for instance help with:
 - Generalised Linear Models
