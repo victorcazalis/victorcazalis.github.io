@@ -24,9 +24,9 @@ This tool will be well suited if you need to visualise data and analyses results
 #### Interactive apps
 Using R Shiny Apps, I can create and host online applications that can include interactive maps, graphics, text, and table. The strength of this tool is that you users can set parameters they are interested in, and run analyses just by clicking on a button. You can see an example [here](https://shiny.posit.co/r/gallery/life-sciences/covid19-tracker/); check the "Region plots" section to visualise how user can specify parameters that are then used in the analyses. This tool can also allow user to enter data themselves (either to use in the analyses or to populate a database) or to manually classify or annotate data. It is a very powerful tool when you need to interact a lot with your data or when you want the tool to be accessible to many people.
 
-> You are XXX
+> You are coordinating a conservation project and want every stakeholder to access and explore the project data → I can create an online app to visualise your different data products (maps, graphics, tables...) and create adequate documentation (text, cheatsheet, video tutorial) for your users.
 
-> You are XXX
+> You are coordinating a team of fieldworkers and need an online portal for them to enter their data interactively (e.g., click on a map, select species they observed and enter additional information) or to annotate data (e.g., assess conservation state based on different information graphics) → I can create an online app that your team can use to enter data when they are coming back from fieldwork and create a robust database.
 
 ## Maps and graphics
 Combining R and Inkscape, I create maps and graphics to display results in a pretty and informative ways. This was actually my favourite part when writing papers so I can help you present your data in maps and graphics. Here are a few examples of graphical outputs from my research projects:
