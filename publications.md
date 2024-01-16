@@ -4,9 +4,12 @@
 
 
 ### Peer-reviewed articles
-* Henry E.G., Santini L., Butchart S., Gonzalez-Suarez M., Lucas P.M., Benitez-Lopez A., Mancini G., Jung M., Cardoso P., Zizka A., Meyer C., Akcakaya H.R., Berryman A., **Cazalis V.**, Di Marco, M. (2023). Modelling the probability of meeting IUCN Red List criteria to support reassessments [Preprint](https://doi.org/10.1101/2023.06.08.544254)
 
 * Lucas P.M., Di Marco M., **Cazalis V.**, Luedtke J., Neam K., Brown M.H., Langhammer P.F., Mancini G., Santini L. (*Under review*). Testing the predictive performance of comparative extinction risk models to support the global amphibian assessment. [*Preprint*](https://www.biorxiv.org/content/10.1101/2023.02.08.526823v1)
+
+* Henry E.G., Santini L., Butchart S., Gonzalez-Suarez M., Lucas P.M., Benitez-Lopez A., Mancini G., Jung M., Cardoso P., Zizka A., Meyer C., Akcakaya H.R., Berryman A., **Cazalis V.**, Di Marco, M. (2023). Modelling the probability of meeting IUCN Red List criteria to support reassessments. *Global Change Biology* [DOI: 10.1101/2023.06.08.544254](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17119)
+
+* Mancini G., Santini L., **Cazalis V.**, Akçakaya R., Lucas P.M., Brooks T.M., Foden W., & Di Marco M. (2023). A standard approach for including climate change responses in IUCN Red List assessments. Conservation Biology, cobi.14227. [DOI: 10.1111/cobi.14227](https://doi.org/10.1111/cobi.14227)
 
 * **Cazalis V.**, Santini L., Lucas P.M., González‐Suárez M., Hoffmann M., Benítez‐López A., Pacifici M., Schipper A.M., Böhm M., Zizka A., Clausnitzer V., Meyer C., Jung M., Butchart S.H.M., Cardoso P., Mancini G., Akçakaya H.R., Young B.E., Patoine G., Di Marco M. (2023). Prioritizing the reassessment of data‐deficient species on the IUCN Red List. *Conservation Biology*, e14139. [DOI:10.1111/cobi.14139](https://doi.org/10.1111/cobi.14139)
 
