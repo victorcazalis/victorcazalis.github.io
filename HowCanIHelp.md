@@ -60,6 +60,8 @@ You can see more options of what is possible for instance in the R sf [cheatshee
 
 > You need to calculate different characteristics of the lakes across your protected area → I can calculate multiple characteristics for each lake (e.g., size, elevation, forest cover, distance to human activities, level of protection, number of species recorded in a buffer of 5 km...).
 
+> You need to elaborate a sampling strategy → I can use different spatial information (habitat, elevation, protected areas, human activities...) to identify the best sampling sites.
+
 > You are working on a restoration project and need to identify 10 sites in a given region where to prioritize your efforts → I can use geographical data on species distribution, habitat, human pressure, and protection to identify sites that would be the best suited for restoration efforts.
 
 ## Statistical analyses
