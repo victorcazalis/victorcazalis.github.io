@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: Conservara - Victor Cazalis test2
 description: Conservation Analyst for Research Application
-image: /logo.jpg
+header: logo.png
 baseurl: /
